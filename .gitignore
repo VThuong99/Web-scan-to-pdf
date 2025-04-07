@@ -1,0 +1,7 @@
+screenshots/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+output_screenshots.pdf
