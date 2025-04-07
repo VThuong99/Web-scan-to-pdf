@@ -37,7 +37,7 @@ Capture 446 pages from a Box URL without login:
     python src/main.py --url https://app.box.com/s/7mnv4zzizj3yizwnhuiaa4q7jycn9orr --pages 446
     ```
 ### Sample Results
-[output_pdf_preview]
+![PDF Preview](images/output_pdf_preview.png)
 
 # Contributing
 Contributions are welcome! Please:
